@@ -13,7 +13,7 @@ try
 source ~/.vim_runtime/my_configs.vim
 catch
 endtry
-colorscheme monokai
+colorscheme Monokai
 set tabstop=3
 set shiftwidth=3
 let g:syntastic_cpp_compiler_options="-std=c++11"
